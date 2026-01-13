@@ -1,0 +1,396 @@
+{
+  "itineraries": [
+    {
+      "id": "thailand_adventure",
+      "name": "Thailand Adventure",
+      "days": [
+        {
+          "day_number": 1,
+          "accommodation": {
+            "name": "Bangkok Riverside Hotel",
+            "location": "Riverside, Bangkok"
+          },
+          "activities": [
+            {
+              "id": "th_act_1",
+              "name": "Grand Palace Tour",
+              "start_time": "09:00",
+              "duration_minutes": 180,
+              "location": "Grand Palace"
+            },
+            {
+              "id": "th_act_2",
+              "name": "Lunch at Local Restaurant",
+              "start_time": "12:30",
+              "duration_minutes": 90,
+              "location": "Chinatown"
+            },
+            {
+              "id": "th_act_3",
+              "name": "Wat Pho Temple Visit",
+              "start_time": "15:00",
+              "duration_minutes": 120,
+              "location": "Wat Pho"
+            },
+            {
+              "id": "th_act_4",
+              "name": "Street Food Walking Tour",
+              "start_time": "18:00",
+              "duration_minutes": 150,
+              "location": "Khao San Road"
+            }
+          ]
+        },
+        {
+          "day_number": 2,
+          "accommodation": {
+            "name": "Bangkok Riverside Hotel",
+            "location": "Riverside, Bangkok"
+          },
+          "activities": [
+            {
+              "id": "th_act_5",
+              "name": "Floating Market Tour",
+              "start_time": "08:00",
+              "duration_minutes": 240,
+              "location": "Damnoen Saduak"
+            },
+            {
+              "id": "th_act_6",
+              "name": "Thai Cooking Class",
+              "start_time": "14:00",
+              "duration_minutes": 180,
+              "location": "Cooking School"
+            },
+            {
+              "id": "th_act_7",
+              "name": "Rooftop Bar Sunset",
+              "start_time": "18:30",
+              "duration_minutes": 120,
+              "location": "Sky Bar"
+            }
+          ]
+        },
+        {
+          "day_number": 3,
+          "accommodation": {
+            "name": "Bangkok Riverside Hotel",
+            "location": "Riverside, Bangkok"
+          },
+          "activities": [
+            {
+              "id": "th_act_8",
+              "name": "Jim Thompson House",
+              "start_time": "09:00",
+              "duration_minutes": 90,
+              "location": "Jim Thompson House"
+            },
+            {
+              "id": "th_act_9",
+              "name": "Shopping at MBK",
+              "start_time": "11:00",
+              "duration_minutes": 180,
+              "location": "MBK Center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bali_beach_trip",
+      "name": "Bali Beach Getaway",
+      "days": [
+        {
+          "day_number": 1,
+          "accommodation": {
+            "name": "Seminyak Beach Resort",
+            "location": "Seminyak"
+          },
+          "activities": [
+            {
+              "id": "bali_act_1",
+              "name": "Airport Transfer",
+              "start_time": "10:00",
+              "duration_minutes": 60,
+              "location": "Airport"
+            },
+            {
+              "id": "bali_act_2",
+              "name": "Beach Club Lunch",
+              "start_time": "12:00",
+              "duration_minutes": 120,
+              "location": "Potato Head"
+            },
+            {
+              "id": "bali_act_3",
+              "name": "Sunset at Tanah Lot",
+              "start_time": "17:00",
+              "duration_minutes": 150,
+              "location": "Tanah Lot"
+            }
+          ]
+        },
+        {
+          "day_number": 2,
+          "accommodation": {
+            "name": "Seminyak Beach Resort",
+            "location": "Seminyak"
+          },
+          "activities": [
+            {
+              "id": "bali_act_4",
+              "name": "Morning Yoga Session",
+              "start_time": "07:00",
+              "duration_minutes": 90,
+              "location": "Resort"
+            },
+            {
+              "id": "bali_act_5",
+              "name": "Uluwatu Temple Tour",
+              "start_time": "14:00",
+              "duration_minutes": 180,
+              "location": "Uluwatu"
+            },
+            {
+              "id": "bali_act_6",
+              "name": "Kecak Dance Show",
+              "start_time": "16:00",
+              "duration_minutes": 120,
+              "location": "Uluwatu"
+            }
+          ]
+        },
+        {
+          "day_number": 3,
+          "accommodation": {
+            "name": "Seminyak Beach Resort",
+            "location": "Seminyak"
+          },
+          "activities": [
+            {
+              "id": "bali_act_7",
+              "name": "Ubud Rice Terraces",
+              "start_time": "08:00",
+              "duration_minutes": 240,
+              "location": "Tegallalang"
+            },
+            {
+              "id": "bali_act_8",
+              "name": "Monkey Forest Visit",
+              "start_time": "13:00",
+              "duration_minutes": 120,
+              "location": "Ubud"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "japan_golden_route",
+      "name": "Japan Golden Route",
+      "days": [
+        {
+          "day_number": 1,
+          "accommodation": {
+            "name": "Tokyo Station Hotel",
+            "location": "Tokyo Station"
+          },
+          "activities": [
+            {
+              "id": "jp_act_1",
+              "name": "Senso-ji Temple Morning",
+              "start_time": "08:00",
+              "duration_minutes": 120,
+              "location": "Asakusa"
+            },
+            {
+              "id": "jp_act_2",
+              "name": "Teamlab Borderless",
+              "start_time": "09:30",
+              "duration_minutes": 180,
+              "location": "Odaiba"
+            },
+            {
+              "id": "jp_act_3",
+              "name": "Shibuya Crossing",
+              "start_time": "14:00",
+              "duration_minutes": 90,
+              "location": "Shibuya"
+            }
+          ]
+        },
+        {
+          "day_number": 2,
+          "accommodation": {
+            "name": "Kyoto Traditional Ryokan",
+            "location": "Gion, Kyoto"
+          },
+          "activities": [
+            {
+              "id": "jp_act_4",
+              "name": "Shinkansen to Kyoto",
+              "start_time": "07:00",
+              "duration_minutes": 150,
+              "location": "Tokyo Station"
+            },
+            {
+              "id": "jp_act_5",
+              "name": "Fushimi Inari Shrine",
+              "start_time": "11:00",
+              "duration_minutes": 180,
+              "location": "Fushimi"
+            },
+            {
+              "id": "jp_act_6",
+              "name": "Nishiki Market Lunch",
+              "start_time": "12:30",
+              "duration_minutes": 90,
+              "location": "Nishiki Market"
+            },
+            {
+              "id": "jp_act_7",
+              "name": "Gion Evening Walk",
+              "start_time": "18:00",
+              "duration_minutes": 120,
+              "location": "Gion"
+            }
+          ]
+        },
+        {
+          "day_number": 3,
+          "accommodation": {
+            "name": "Kyoto Traditional Ryokan",
+            "location": "Gion, Kyoto"
+          },
+          "activities": [
+            {
+              "id": "jp_act_8",
+              "name": "Arashiyama Bamboo Grove",
+              "start_time": "07:00",
+              "duration_minutes": 120,
+              "location": "Arashiyama"
+            },
+            {
+              "id": "jp_act_9",
+              "name": "Kinkaku-ji Golden Pavilion",
+              "start_time": "10:00",
+              "duration_minutes": 90,
+              "location": "Kinkaku-ji"
+            },
+            {
+              "id": "jp_act_10",
+              "name": "Tea Ceremony Experience",
+              "start_time": "13:00",
+              "duration_minutes": 120,
+              "location": "Tea House"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vietnam_explorer",
+      "name": "Vietnam Explorer",
+      "days": [
+        {
+          "day_number": 1,
+          "accommodation": {
+            "name": "Hanoi Old Quarter Hotel",
+            "location": "Old Quarter, Hanoi"
+          },
+          "activities": [
+            {
+              "id": "vn_act_1",
+              "name": "Ho Chi Minh Mausoleum",
+              "start_time": "08:00",
+              "duration_minutes": 120,
+              "location": "Ba Dinh Square"
+            },
+            {
+              "id": "vn_act_2",
+              "name": "Old Quarter Walking Tour",
+              "start_time": "10:30",
+              "duration_minutes": 150,
+              "location": "Old Quarter"
+            },
+            {
+              "id": "vn_act_3",
+              "name": "Water Puppet Show",
+              "start_time": "19:00",
+              "duration_minutes": 60,
+              "location": "Thang Long Theatre"
+            }
+          ]
+        },
+        {
+          "day_number": 2,
+          "accommodation": {
+            "name": "Hanoi Old Quarter Hotel",
+            "location": "Old Quarter, Hanoi"
+          },
+          "activities": [
+            {
+              "id": "vn_act_4",
+              "name": "Transfer to Halong Bay",
+              "start_time": "08:00",
+              "duration_minutes": 240,
+              "location": "Old Quarter, Hanoi"
+            }
+          ]
+        },
+        {
+          "day_number": 3,
+          "accommodation": {
+            "name": "Hanoi Old Quarter Hotel",
+            "location": "Old Quarter, Hanoi"
+          },
+          "activities": []
+        },
+        {
+          "day_number": 4,
+          "accommodation": {
+            "name": "Hanoi Old Quarter Hotel",
+            "location": "Old Quarter, Hanoi"
+          },
+          "activities": [
+            {
+              "id": "vn_act_5",
+              "name": "Egg Coffee Experience",
+              "start_time": "09:00",
+              "duration_minutes": 60,
+              "location": "Old Quarter"
+            },
+            {
+              "id": "vn_act_6",
+              "name": "Old Quarter Food Tour",
+              "start_time": "10:00",
+              "duration_minutes": 90,
+              "location": "Old Quarter"
+            },
+            {
+              "id": "vn_act_7",
+              "name": "Temple of Literature",
+              "start_time": "12:00",
+              "duration_minutes": 90,
+              "location": "Temple of Literature"
+            },
+            {
+              "id": "vn_act_8",
+              "name": "Hoan Kiem Lake Walk",
+              "start_time": "14:00",
+              "duration_minutes": 90,
+              "location": "Hoan Kiem"
+            },
+            {
+              "id": "vn_act_9",
+              "name": "Night Market",
+              "start_time": "19:00",
+              "duration_minutes": 120,
+              "location": "Old Quarter"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

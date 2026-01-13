@@ -1,0 +1,298 @@
+{
+  "activities": [
+    {
+      "id": "bali_001",
+      "name": "Sunrise Beach Yoga",
+      "location": "Seminyak",
+      "duration_minutes": 90,
+      "tags": ["relaxation", "morning", "beach"]
+    },
+    {
+      "id": "bali_002",
+      "name": "Seminyak Beach Walk",
+      "location": "Seminyak",
+      "duration_minutes": 60,
+      "tags": ["relaxation", "beach", "easy"]
+    },
+    {
+      "id": "bali_003",
+      "name": "Uluwatu Cliff Walk",
+      "location": "Uluwatu",
+      "duration_minutes": 90,
+      "tags": ["nature", "scenic", "adventure"]
+    },
+    {
+      "id": "bali_004",
+      "name": "Uluwatu Sunset Temple",
+      "location": "Uluwatu",
+      "duration_minutes": 120,
+      "tags": ["temple", "sunset", "cultural"]
+    },
+    {
+      "id": "bali_005",
+      "name": "Kecak Fire Dance",
+      "location": "Uluwatu",
+      "duration_minutes": 90,
+      "tags": ["performance", "evening", "cultural"]
+    },
+    {
+      "id": "bali_006",
+      "name": "Jimbaran Seafood Dinner",
+      "location": "Jimbaran",
+      "duration_minutes": 120,
+      "tags": ["dinner", "seafood", "beach"]
+    },
+    {
+      "id": "bali_007",
+      "name": "Tegallalang Rice Terrace",
+      "location": "Tegallalang",
+      "duration_minutes": 150,
+      "tags": ["nature", "scenic", "photography"]
+    },
+    {
+      "id": "bali_008",
+      "name": "Ubud Monkey Forest",
+      "location": "Ubud",
+      "duration_minutes": 90,
+      "tags": ["wildlife", "nature", "walking"]
+    },
+    {
+      "id": "bali_009",
+      "name": "Balinese Cooking Class",
+      "location": "Ubud",
+      "duration_minutes": 180,
+      "tags": ["cooking", "cultural", "hands-on"]
+    },
+    {
+      "id": "bali_010",
+      "name": "Ubud Art Market",
+      "location": "Ubud",
+      "duration_minutes": 90,
+      "tags": ["shopping", "art", "cultural"]
+    },
+    {
+      "id": "japan_001",
+      "name": "Senso-ji Temple Visit",
+      "location": "Asakusa",
+      "duration_minutes": 90,
+      "tags": ["temple", "cultural", "historic"]
+    },
+    {
+      "id": "japan_002",
+      "name": "Asakusa Food Tour",
+      "location": "Asakusa",
+      "duration_minutes": 120,
+      "tags": ["food", "walking", "cultural"]
+    },
+    {
+      "id": "japan_003",
+      "name": "TeamLab Planets",
+      "location": "Odaiba",
+      "duration_minutes": 120,
+      "tags": ["art", "interactive", "modern"]
+    },
+    {
+      "id": "japan_004",
+      "name": "Odaiba Seaside Walk",
+      "location": "Odaiba",
+      "duration_minutes": 60,
+      "tags": ["scenic", "relaxation", "waterfront"]
+    },
+    {
+      "id": "japan_005",
+      "name": "Shibuya Crossing & Hachiko",
+      "location": "Shibuya",
+      "duration_minutes": 60,
+      "tags": ["iconic", "urban", "photography"]
+    },
+    {
+      "id": "japan_006",
+      "name": "Shibuya Shopping",
+      "location": "Shibuya",
+      "duration_minutes": 150,
+      "tags": ["shopping", "fashion", "urban"]
+    },
+    {
+      "id": "japan_007",
+      "name": "Meiji Shrine Morning Walk",
+      "location": "Harajuku",
+      "duration_minutes": 90,
+      "tags": ["shrine", "nature", "peaceful"]
+    },
+    {
+      "id": "japan_008",
+      "name": "Harajuku Street Food",
+      "location": "Harajuku",
+      "duration_minutes": 90,
+      "tags": ["food", "trendy", "walking"]
+    },
+    {
+      "id": "japan_009",
+      "name": "Fushimi Inari Hike",
+      "location": "Fushimi",
+      "duration_minutes": 150,
+      "tags": ["shrine", "hiking", "iconic"]
+    },
+    {
+      "id": "japan_010",
+      "name": "Fushimi Sake District",
+      "location": "Fushimi",
+      "duration_minutes": 120,
+      "tags": ["sake", "tasting", "cultural"]
+    },
+    {
+      "id": "japan_011",
+      "name": "Nishiki Market Tour",
+      "location": "Nishiki Market",
+      "duration_minutes": 90,
+      "tags": ["food", "market", "cultural"]
+    },
+    {
+      "id": "japan_012",
+      "name": "Gion Geisha District Walk",
+      "location": "Gion",
+      "duration_minutes": 90,
+      "tags": ["cultural", "historic", "evening"]
+    },
+    {
+      "id": "japan_013",
+      "name": "Arashiyama Bamboo Grove",
+      "location": "Arashiyama",
+      "duration_minutes": 90,
+      "tags": ["nature", "scenic", "iconic"]
+    },
+    {
+      "id": "japan_014",
+      "name": "Arashiyama Monkey Park",
+      "location": "Arashiyama",
+      "duration_minutes": 120,
+      "tags": ["wildlife", "hiking", "scenic"]
+    },
+    {
+      "id": "japan_015",
+      "name": "Kinkaku-ji Golden Pavilion",
+      "location": "Kinkaku-ji",
+      "duration_minutes": 60,
+      "tags": ["temple", "iconic", "photography"]
+    },
+    {
+      "id": "japan_016",
+      "name": "Kyoto Tea Ceremony",
+      "location": "Gion",
+      "duration_minutes": 90,
+      "tags": ["tea", "cultural", "traditional"]
+    },
+    {
+      "id": "thailand_001",
+      "name": "Grand Palace Tour",
+      "location": "Grand Palace",
+      "duration_minutes": 150,
+      "tags": ["palace", "historic", "iconic"]
+    },
+    {
+      "id": "thailand_002",
+      "name": "Wat Pho Temple",
+      "location": "Wat Pho",
+      "duration_minutes": 90,
+      "tags": ["temple", "buddha", "historic"]
+    },
+    {
+      "id": "thailand_003",
+      "name": "Chinatown Food Walk",
+      "location": "Chinatown",
+      "duration_minutes": 120,
+      "tags": ["food", "street-food", "walking"]
+    },
+    {
+      "id": "thailand_004",
+      "name": "Khao San Road Evening",
+      "location": "Khao San Road",
+      "duration_minutes": 120,
+      "tags": ["nightlife", "food", "backpacker"]
+    },
+    {
+      "id": "thailand_005",
+      "name": "Floating Market Morning",
+      "location": "Damnoen Saduak",
+      "duration_minutes": 180,
+      "tags": ["market", "boat", "cultural"]
+    },
+    {
+      "id": "thailand_006",
+      "name": "Thai Cooking Class",
+      "location": "Cooking School",
+      "duration_minutes": 180,
+      "tags": ["cooking", "hands-on", "cultural"]
+    },
+    {
+      "id": "thailand_007",
+      "name": "Rooftop Bar Sunset",
+      "location": "Sky Bar",
+      "duration_minutes": 90,
+      "tags": ["drinks", "sunset", "scenic"]
+    },
+    {
+      "id": "thailand_008",
+      "name": "Jim Thompson House",
+      "location": "Jim Thompson House",
+      "duration_minutes": 90,
+      "tags": ["museum", "art", "historic"]
+    },
+    {
+      "id": "vietnam_001",
+      "name": "Ho Chi Minh Mausoleum",
+      "location": "Ba Dinh Square",
+      "duration_minutes": 90,
+      "tags": ["historic", "political", "landmark"]
+    },
+    {
+      "id": "vietnam_002",
+      "name": "Old Quarter Walking Tour",
+      "location": "Old Quarter",
+      "duration_minutes": 150,
+      "tags": ["walking", "cultural", "historic"]
+    },
+    {
+      "id": "vietnam_003",
+      "name": "Egg Coffee Experience",
+      "location": "Old Quarter",
+      "duration_minutes": 60,
+      "tags": ["coffee", "local", "relaxation"]
+    },
+    {
+      "id": "vietnam_004",
+      "name": "Water Puppet Show",
+      "location": "Thang Long Theatre",
+      "duration_minutes": 60,
+      "tags": ["performance", "traditional", "evening"]
+    },
+    {
+      "id": "vietnam_005",
+      "name": "Street Food Tour",
+      "location": "Old Quarter",
+      "duration_minutes": 180,
+      "tags": ["food", "street-food", "walking"]
+    },
+    {
+      "id": "vietnam_006",
+      "name": "Temple of Literature",
+      "location": "Temple of Literature",
+      "duration_minutes": 90,
+      "tags": ["temple", "historic", "educational"]
+    },
+    {
+      "id": "vietnam_007",
+      "name": "Hoan Kiem Lake Stroll",
+      "location": "Hoan Kiem",
+      "duration_minutes": 60,
+      "tags": ["lake", "relaxation", "scenic"]
+    },
+    {
+      "id": "vietnam_008",
+      "name": "Hanoi Night Market",
+      "location": "Old Quarter",
+      "duration_minutes": 120,
+      "tags": ["market", "evening", "shopping"]
+    }
+  ]
+}
