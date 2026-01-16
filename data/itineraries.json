@@ -16,28 +16,32 @@
               "name": "Grand Palace Tour",
               "start_time": "09:00",
               "duration_minutes": 180,
-              "location": "Grand Palace"
+              "location": "Grand Palace",
+              "tags": ["palace", "historic", "iconic", "cultural", "landmark", "royal", "heritage"]
             },
             {
               "id": "th_act_2",
               "name": "Lunch at Local Restaurant",
               "start_time": "12:30",
               "duration_minutes": 90,
-              "location": "Chinatown"
+              "location": "Chinatown",
+              "tags": ["food", "dining", "local", "culinary", "lunch"]
             },
             {
               "id": "th_act_3",
               "name": "Wat Pho Temple Visit",
               "start_time": "15:00",
               "duration_minutes": 120,
-              "location": "Wat Pho"
+              "location": "Wat Pho",
+              "tags": ["temple", "historic", "spiritual", "sacred", "cultural", "religious", "landmark"]
             },
             {
               "id": "th_act_4",
               "name": "Street Food Walking Tour",
               "start_time": "18:00",
               "duration_minutes": 150,
-              "location": "Khao San Road"
+              "location": "Khao San Road",
+              "tags": ["food", "street-food", "walking", "evening", "local", "culinary"]
             }
           ]
         },
@@ -53,21 +57,24 @@
               "name": "Floating Market Tour",
               "start_time": "08:00",
               "duration_minutes": 240,
-              "location": "Damnoen Saduak"
+              "location": "Damnoen Saduak",
+              "tags": ["market", "boat", "cultural", "local", "shopping", "traditional", "unique", "morning"]
             },
             {
               "id": "th_act_6",
               "name": "Thai Cooking Class",
               "start_time": "14:00",
               "duration_minutes": 180,
-              "location": "Cooking School"
+              "location": "Cooking School",
+              "tags": ["cooking", "hands-on", "cultural", "culinary", "traditional", "food", "interactive"]
             },
             {
               "id": "th_act_7",
               "name": "Rooftop Bar Sunset",
               "start_time": "18:30",
               "duration_minutes": 120,
-              "location": "Sky Bar"
+              "location": "Sky Bar",
+              "tags": ["drinks", "sunset", "scenic", "evening", "city", "relaxation", "views"]
             }
           ]
         },
@@ -83,14 +90,16 @@
               "name": "Jim Thompson House",
               "start_time": "09:00",
               "duration_minutes": 90,
-              "location": "Jim Thompson House"
+              "location": "Jim Thompson House",
+              "tags": ["museum", "art", "historic", "cultural", "heritage", "indoor", "architecture"]
             },
             {
               "id": "th_act_9",
               "name": "Shopping at MBK",
               "start_time": "11:00",
               "duration_minutes": 180,
-              "location": "MBK Center"
+              "location": "MBK Center",
+              "tags": ["shopping", "retail", "indoor", "local", "fashion", "city"]
             }
           ]
         }
@@ -112,21 +121,24 @@
               "name": "Airport Transfer",
               "start_time": "10:00",
               "duration_minutes": 60,
-              "location": "Airport"
+              "location": "Airport",
+              "tags": ["transfer", "transport", "arrival"]
             },
             {
               "id": "bali_act_2",
               "name": "Beach Club Lunch",
               "start_time": "12:00",
               "duration_minutes": 120,
-              "location": "Potato Head"
+              "location": "Potato Head",
+              "tags": ["food", "dining", "beach", "relaxation", "lunch", "scenic"]
             },
             {
               "id": "bali_act_3",
               "name": "Sunset at Tanah Lot",
               "start_time": "17:00",
               "duration_minutes": 150,
-              "location": "Tanah Lot"
+              "location": "Tanah Lot",
+              "tags": ["temple", "sunset", "scenic", "spiritual", "sacred", "iconic", "evening"]
             }
           ]
         },
@@ -142,21 +154,24 @@
               "name": "Morning Yoga Session",
               "start_time": "07:00",
               "duration_minutes": 90,
-              "location": "Resort"
+              "location": "Resort",
+              "tags": ["relaxation", "morning", "wellness", "peaceful", "outdoor"]
             },
             {
               "id": "bali_act_5",
               "name": "Uluwatu Temple Tour",
               "start_time": "14:00",
               "duration_minutes": 180,
-              "location": "Uluwatu"
+              "location": "Uluwatu",
+              "tags": ["temple", "cultural", "spiritual", "sacred", "scenic", "cliff"]
             },
             {
               "id": "bali_act_6",
               "name": "Kecak Dance Show",
               "start_time": "16:00",
               "duration_minutes": 120,
-              "location": "Uluwatu"
+              "location": "Uluwatu",
+              "tags": ["performance", "evening", "cultural", "traditional", "artistic", "entertainment"]
             }
           ]
         },
@@ -172,14 +187,16 @@
               "name": "Ubud Rice Terraces",
               "start_time": "08:00",
               "duration_minutes": 240,
-              "location": "Tegallalang"
+              "location": "Tegallalang",
+              "tags": ["nature", "scenic", "photography", "landscape", "outdoor", "iconic", "cultural"]
             },
             {
               "id": "bali_act_8",
               "name": "Monkey Forest Visit",
               "start_time": "13:00",
               "duration_minutes": 120,
-              "location": "Ubud"
+              "location": "Ubud",
+              "tags": ["wildlife", "nature", "walking", "outdoor", "family-friendly", "adventure"]
             }
           ]
         }
@@ -201,21 +218,24 @@
               "name": "Senso-ji Temple Morning",
               "start_time": "08:00",
               "duration_minutes": 120,
-              "location": "Asakusa"
+              "location": "Asakusa",
+              "tags": ["temple", "cultural", "historic", "spiritual", "sacred", "iconic", "religious"]
             },
             {
               "id": "jp_act_2",
               "name": "Teamlab Borderless",
               "start_time": "09:30",
               "duration_minutes": 180,
-              "location": "Odaiba"
+              "location": "Odaiba",
+              "tags": ["art", "interactive", "modern", "immersive", "creative", "indoor", "unique"]
             },
             {
               "id": "jp_act_3",
               "name": "Shibuya Crossing",
               "start_time": "14:00",
               "duration_minutes": 90,
-              "location": "Shibuya"
+              "location": "Shibuya",
+              "tags": ["iconic", "urban", "photography", "landmark", "city", "sightseeing"]
             }
           ]
         },
@@ -231,28 +251,32 @@
               "name": "Shinkansen to Kyoto",
               "start_time": "07:00",
               "duration_minutes": 150,
-              "location": "Tokyo Station"
+              "location": "Tokyo Station",
+              "tags": ["transfer", "transport", "train", "scenic"]
             },
             {
               "id": "jp_act_5",
               "name": "Fushimi Inari Shrine",
               "start_time": "11:00",
               "duration_minutes": 180,
-              "location": "Fushimi"
+              "location": "Fushimi",
+              "tags": ["shrine", "hiking", "iconic", "spiritual", "sacred", "outdoor", "religious", "nature"]
             },
             {
               "id": "jp_act_6",
               "name": "Nishiki Market Lunch",
               "start_time": "12:30",
               "duration_minutes": 90,
-              "location": "Nishiki Market"
+              "location": "Nishiki Market",
+              "tags": ["food", "market", "cultural", "culinary", "local", "street-food", "lunch"]
             },
             {
               "id": "jp_act_7",
               "name": "Gion Evening Walk",
               "start_time": "18:00",
               "duration_minutes": 120,
-              "location": "Gion"
+              "location": "Gion",
+              "tags": ["cultural", "historic", "evening", "traditional", "heritage", "scenic", "walking"]
             }
           ]
         },
@@ -268,21 +292,24 @@
               "name": "Arashiyama Bamboo Grove",
               "start_time": "07:00",
               "duration_minutes": 120,
-              "location": "Arashiyama"
+              "location": "Arashiyama",
+              "tags": ["nature", "scenic", "iconic", "outdoor", "peaceful", "photography", "landscape"]
             },
             {
               "id": "jp_act_9",
               "name": "Kinkaku-ji Golden Pavilion",
               "start_time": "10:00",
               "duration_minutes": 90,
-              "location": "Kinkaku-ji"
+              "location": "Kinkaku-ji",
+              "tags": ["temple", "iconic", "photography", "spiritual", "sacred", "historic", "religious"]
             },
             {
               "id": "jp_act_10",
               "name": "Tea Ceremony Experience",
               "start_time": "13:00",
               "duration_minutes": 120,
-              "location": "Tea House"
+              "location": "Tea House",
+              "tags": ["tea", "cultural", "traditional", "heritage", "serene", "authentic", "indoor"]
             }
           ]
         }
@@ -304,21 +331,24 @@
               "name": "Ho Chi Minh Mausoleum",
               "start_time": "08:00",
               "duration_minutes": 120,
-              "location": "Ba Dinh Square"
+              "location": "Ba Dinh Square",
+              "tags": ["historic", "political", "landmark", "cultural", "sightseeing", "heritage", "iconic"]
             },
             {
               "id": "vn_act_2",
               "name": "Old Quarter Walking Tour",
               "start_time": "10:30",
               "duration_minutes": 150,
-              "location": "Old Quarter"
+              "location": "Old Quarter",
+              "tags": ["walking", "cultural", "historic", "heritage", "sightseeing", "local", "urban"]
             },
             {
               "id": "vn_act_3",
               "name": "Water Puppet Show",
               "start_time": "19:00",
               "duration_minutes": 60,
-              "location": "Thang Long Theatre"
+              "location": "Thang Long Theatre",
+              "tags": ["performance", "traditional", "evening", "cultural", "artistic", "entertainment", "heritage"]
             }
           ]
         },
@@ -334,7 +364,8 @@
               "name": "Transfer to Halong Bay",
               "start_time": "08:00",
               "duration_minutes": 240,
-              "location": "Old Quarter, Hanoi"
+              "location": "Old Quarter, Hanoi",
+              "tags": ["transfer", "transport", "scenic", "cruise"]
             }
           ]
         },
@@ -358,35 +389,40 @@
               "name": "Egg Coffee Experience",
               "start_time": "09:00",
               "duration_minutes": 60,
-              "location": "Old Quarter"
+              "location": "Old Quarter",
+              "tags": ["coffee", "local", "relaxation", "culinary", "unique", "cafe", "indoor"]
             },
             {
               "id": "vn_act_6",
               "name": "Old Quarter Food Tour",
               "start_time": "10:00",
               "duration_minutes": 90,
-              "location": "Old Quarter"
+              "location": "Old Quarter",
+              "tags": ["food", "street-food", "walking", "culinary", "local", "dining"]
             },
             {
               "id": "vn_act_7",
               "name": "Temple of Literature",
               "start_time": "12:00",
               "duration_minutes": 90,
-              "location": "Temple of Literature"
+              "location": "Temple of Literature",
+              "tags": ["temple", "historic", "educational", "cultural", "heritage", "sacred", "spiritual"]
             },
             {
               "id": "vn_act_8",
               "name": "Hoan Kiem Lake Walk",
               "start_time": "14:00",
               "duration_minutes": 90,
-              "location": "Hoan Kiem"
+              "location": "Hoan Kiem",
+              "tags": ["lake", "relaxation", "scenic", "nature", "peaceful", "outdoor", "easy"]
             },
             {
               "id": "vn_act_9",
               "name": "Night Market",
               "start_time": "19:00",
               "duration_minutes": 120,
-              "location": "Old Quarter"
+              "location": "Old Quarter",
+              "tags": ["market", "evening", "shopping", "local", "street-food", "entertainment"]
             }
           ]
         }

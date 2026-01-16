@@ -93,4 +93,4 @@ For activities that cause feasibility issues, find a replacement from the catalo
 
 ### 2. Suggest Similar Replacements
 
-Same as above, but the replacement should be similar to the original activity (consider the `type` and `tags` fields in the catalog).
+Same as above, but the replacement should be similar to the original activity (consider the `tags` field on activities).
